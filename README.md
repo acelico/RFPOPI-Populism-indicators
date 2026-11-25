@@ -10,9 +10,6 @@ Disclaimer: This repository is a "work in progress" and is not meant to be a rep
 ## Data preview app & dataset download
 For an online visualization of the data and to download the entire dataset: [Link to the Shiny app](https://acelico.shinyapps.io/rfpopi_app/)
 
-## Dataset codebook 
-The codebook is currently WIP. For informations, contact the authors. 
-
 ## Updates
 Latest update: 15/02/2024
 
